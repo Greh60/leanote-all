@@ -16,7 +16,7 @@ Leanote, не только блокнот!
 * Cooperating: Collaborate with colleagues to improve skills, fertilize ideas and brainstorm on the fly.
 * Blogging: Publish your work and make Leanote your personal blog.
 
-**Other Features**
+**Другие возможности**
 
 * Поддержка синтаксиса Markdown
 * Distraction-free writing mode
